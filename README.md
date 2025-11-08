@@ -15,7 +15,7 @@ A competitive buzzer game for up to 6 players using Raspberry Pi Pico with arcad
 
 ## Materials
 
-- [Raspberry Pi Pico](https://amzn.to/3ZQxY9j)
+- [Raspberry Pi Pico](https://amzn.to/4oo8HTM)
 - [Arcade style buttons](https://amzn.to/47JRmOd)
 - [Breadboard](https://amzn.to/4nBJFiM)
 - [Piezo buzzer](https://amzn.to/43QuStq)
