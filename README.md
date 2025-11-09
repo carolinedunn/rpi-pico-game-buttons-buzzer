@@ -25,6 +25,8 @@ A competitive buzzer game for up to 6 players using Raspberry Pi Pico with arcad
 
 Material links provided are Amazon Affiliate links, which means I may earn a small commission at no extra cost to you.
 
+If you need to solder the pico board [check out my soldering pico board video here](https://youtu.be/YhdrowzzEjo)
+
 ## Wiring
 
 | Component | Pin(s) | Notes |
