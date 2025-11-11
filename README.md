@@ -1,6 +1,10 @@
-# Player Raspberry Pi Pico Buzzer Game
+# DIY Game Night Buzzer with Raspberry Pi Pico
 
 A competitive buzzer game for up to 6 players using Raspberry Pi Pico with arcade-style buttons, LED feedback, distinct win tones, and an LCD display.
+
+wiring-n-images/game-night-pico.jpg
+
+[![DIY Game Night Buzzer with Raspberry Pi Pico](wiring-n-images/game-night-pico.jpg)](https://youtu.be/C4T8JmMSNkg)
 
 ## Features
 
@@ -59,9 +63,9 @@ If you need to solder the pico board [check out my soldering pico board video he
 3. Plug in your Pico while holding down the BOOTSEL button.
 4. Copy the Python files from your Pi to your Pico.
 5. Open [Thonny](https://thonny.org/) and select Pico and MicroPython for the environment.
-6. Wire your Pico.
+6. Wire your Pico. [Wiring Diagram](wiring-n-images/buzzer-pico.png) - [Arcade Button diagram](wiring-n-images/arcade-button.jpg)
 7. Test your Pico.
-8. Save the file you want to run on boot as main.py
+8. Save the file you want to run on boot as main.py on the Pico.
 
 ## 3D Printing
 
